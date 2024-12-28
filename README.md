@@ -7,6 +7,7 @@
 <p>Para instalar la aplicaciones tienees que seguir los siguientes pasos</p>
 
 <ul>
+  <li>Primero tienes que instalar NodeJS desde la pagina oficial</li>
   <li>Ir al directorio raiz con "cd spotify_clone"</li>
   <li>Luego tienes que instalar las dependencias con "npm i"</li>
   <li>Por ultimo inicias el proyecto con "npm run dev"</li>
